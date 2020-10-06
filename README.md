@@ -1,9 +1,12 @@
 ﻿<div align="center">
  
  ![Scrum Logo](Scrum%20-%20Agilidade%20em%20seu%20projeto/imagens/scrum-1.png)
-  ### Repositório criado para documentação de estudos em Scrum
+  
 </div>
-<br><br>
+
+### Repositório criado para documentação de estudos em Scrum
+
+<br>
 
 
 ### 📚  Livros (Indicações): 

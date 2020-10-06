@@ -16,7 +16,7 @@
 
 <br>
 
-### ✏️ Documentação de Estudo:
+### ✍️ Documentação de Estudo:
 
 **Curso de Scrum: Agilidade em seu projeto**
 

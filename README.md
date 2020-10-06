@@ -1,6 +1,6 @@
 ﻿<div align="center">
  
- ![Scrum Logo](ITIL%20-%20Fundamentos%20(Treinaweb)/imagens/itil-foundation-logo.png)
+ ![Scrum Logo](Scrum%20-%20Agilidade%20em%20seu%20projeto/imagens/scrum-1.png)
 
   ### **Repositório criado para documentação de estudos em Scrum**
 </div>

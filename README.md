@@ -6,6 +6,9 @@
 </div>
 
 
+### 📰 Posts
+
++ [https://www.dbccompany.com.br/8-dicas-para-realizar-retrospectivas/](https://www.dbccompany.com.br/8-dicas-para-realizar-retrospectivas/)
 
 <br>
 

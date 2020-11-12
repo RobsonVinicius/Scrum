@@ -8,7 +8,7 @@
 
 ### 📰 Posts
 
-+ [8 DICAS PARA REALIZAR RETROSPECTIVAS](https://www.dbccompany.com.br/8-dicas-para-realizar-retrospectivas/)
++ [8 Dicas para realizar retrospectivas](https://www.dbccompany.com.br/8-dicas-para-realizar-retrospectivas/)
 
 <br>
 

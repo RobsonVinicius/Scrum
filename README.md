@@ -5,6 +5,7 @@
   
 </div>
 
+<br> 
 
 ### 📰 Posts
 
@@ -12,18 +13,32 @@
 
 <br>
 
+  
+### 🎙️ Podcasts
 
-### 📚  Livros (Indicações): 
++ [Scrum: do zero ao Sprint - Hipsters #54](https://cursos.alura.com.br/hipsterstech-scrum-do-zero-ao-sprint-hipsters-54-a532)
++ [Scrum e Agile para além de Tecnologia - Hipsters #115](https://cursos.alura.com.br/hipsterstech-scrum-e-agile-para-alem-de-tecnologia-hipsters-115-a467)
+
+<br>
+
+### 📚 Livros
  
-+ (Em Breve)
++ Scrum: A arte de fazer duas vezes o trabalho na metade do tempo – Jeff Sutherland
++ Desenvolvimento de Software com Scrum: Aplicando Métodos Ágeis com Sucesso - Mike Cohn
++ Scrum Essencial: Um Guia Prático para o Processo Ágil Mais Popular – Kenneth S. Rubin
+ 
+<br> 
+
+### 🗺️ Guides
+
++ [Scrum Guides](https://www.scrumguides.org/)
 
 <br>
 
 ### 📝 Documentação de Estudo:
 
-**Curso de Scrum: Agilidade em seu projeto**
-
-+ Acesse a pasta Scrum - Agilidade em seu projeto (Alura)  
++ Scrum: Agilidade em seu projeto
+  + Acesse a pasta Scrum: Agilidade em seu projeto
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos
 
 

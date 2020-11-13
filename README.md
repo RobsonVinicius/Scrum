@@ -30,9 +30,8 @@
 
 ### 📝 Documentação de Estudo:
 
-**Curso de Scrum: Agilidade em seu projeto**
-
-+ Acesse a pasta Scrum - Agilidade em seu projeto (Alura)  
++ Scrum: Agilidade em seu projeto
+  + Acesse a pasta Scrum: Agilidade em seu projeto
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos
 
 

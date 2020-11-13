@@ -22,7 +22,7 @@
 
 <br>
 
-### 📚  Livros (Indicações): 
+### 📚 Livros
  
 + Scrum: A arte de fazer duas vezes o trabalho na metade do tempo – Jeff Sutherland
 

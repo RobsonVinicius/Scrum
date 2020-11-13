@@ -27,6 +27,11 @@
 + Desenvolvimento de Software com Scrum: Aplicando Métodos Ágeis com Sucesso - Mike Cohn
 + Scrum Essencial: Um Guia Prático para o Processo Ágil Mais Popular – Kenneth S. Rubin
  
+<br> 
+
+### 🗺️ Guides
+
++ [Scrum Guides](https://www.scrumguides.org/)
 
 <br>
 

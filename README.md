@@ -5,6 +5,7 @@
   
 </div>
 
+<br> 
 
 ### 📰 Posts
 
@@ -12,6 +13,13 @@
 
 <br>
 
+  
+### 🎙️ Podcasts
+
++ [Scrum: do zero ao Sprint - Hipsters #54](https://cursos.alura.com.br/hipsterstech-scrum-do-zero-ao-sprint-hipsters-54-a532)
+
+
+<br>
 
 ### 📚  Livros (Indicações): 
  

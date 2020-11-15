@@ -10,6 +10,7 @@
 ### 📜 Certificações
 
 + [Scrum Alliance](https://www.scrumalliance.org/)
++ [Scrum.org](https://www.scrum.org/)
 
 <br> 
 

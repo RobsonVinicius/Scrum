@@ -11,7 +11,7 @@
 
 + [Scrum Alliance](https://www.scrumalliance.org/)
 + [Scrum.org](https://www.scrum.org/)
-
++ [Exin](https://www.exin.com/certifications/exin-agile-scrum-master-exam)
 <br> 
 
 ### 📰 Posts

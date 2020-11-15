@@ -5,6 +5,8 @@
   
 </div>
 
+<br>
+
 ### 📜 Certificações
 
 + [Scrum Alliance](https://www.scrumalliance.org/)

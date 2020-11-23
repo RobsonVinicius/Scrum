@@ -27,6 +27,7 @@
 
 + [Scrum: do zero ao Sprint - Hipsters #54](https://cursos.alura.com.br/hipsterstech-scrum-do-zero-ao-sprint-hipsters-54-a532)
 + [Scrum e Agile para além de Tecnologia - Hipsters #115](https://cursos.alura.com.br/hipsterstech-scrum-e-agile-para-alem-de-tecnologia-hipsters-115-a467)
++ [Scrum Master Toolbox Podcast](https://player.fm/series/scrum-master-toolbox-podcast)
 
 <br>
 

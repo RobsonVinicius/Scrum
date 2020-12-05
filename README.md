@@ -13,6 +13,7 @@
 + [Scrum.org](https://www.scrum.org/)
 + [Exin](https://www.exin.com/certifications/exin-agile-scrum-master-exam)
 + [Scrum Study](https://www.scrumstudy.com/portuguese)
++ [Certiprof - Professional Knowledge](https://certiprof.com/pages/scrum-foundations-professional-certificate-sfpc-ptbr)
 
 <br> 
 

@@ -51,5 +51,11 @@
 + Scrum: Agilidade em seu projeto
   + Acesse a pasta Scrum: Agilidade em seu projeto
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos
+  
+<br>
+
++ Scrum - Gerencie o seu projeto de forma ágil
+  + Acesse a pasta 1. Scrum - Gerencie o seu projeto de forma ágil
+  + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente, organizada por capítulos
 
 

@@ -20,6 +20,7 @@
 ### 📰 Posts
 
 + [8 Dicas para realizar retrospectivas](https://www.dbccompany.com.br/8-dicas-para-realizar-retrospectivas/)
++ [Scrum - Saiba como usar o Scrum da melhor forma](https://www.atlassian.com/br/agile/scrum)
 
 <br>
 

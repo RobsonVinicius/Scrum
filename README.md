@@ -1,6 +1,6 @@
 ﻿<div align="center">
  
- ![Scrum Logo](Scrum%20-%20Agilidade%20em%20seu%20projeto/imagens/scrum-1.png)
+ ![Scrum Logo](https://raw.githubusercontent.com/RobsonVinicius/Scrum/main/Docs%20Estudos/Scrum%20-%20Agilidade%20em%20seu%20projeto/imagens/scrum-1.png)
  ### Repositório criado para documentação de estudos em Scrum
   
 </div>

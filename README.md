@@ -50,13 +50,43 @@
 ### 📝 Documentação de Estudo:
 
 + Scrum: Agilidade em seu projeto
-  + Acesse a pasta Scrum: Agilidade em seu projeto
+  + Acesse a pasta Docs Estudos > Scrum: Agilidade em seu projeto
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos
   
 <br>
 
-+ Scrum - Gerencie o seu projeto de forma ágil
-  + Acesse a pasta 1. Scrum - Gerencie o seu projeto de forma ágil
++ 1. Scrum - Gerencie o seu projeto de forma ágil
+  + Acesse a pasta Docs Estudos > 1. Scrum - Gerencie o seu projeto de forma ágil
+  + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente, organizada por capítulos
+
+<br>
+
++ 2. Scrum O manifesto Ágil, liderança e Organização em Scrum
+  + Acesse a pasta Docs Estudos > 2. Scrum O manifesto Ágil, liderança e Organização em Scrum
+  + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente, organizada por capítulos
+
+<br>
+
++ 3. Scrum - Iniciando Projetos com Agile
+  + Acesse a pasta Docs Estudos > 3. Scrum - Iniciando Projetos com Agile
+  + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente, organizada por capítulos
+
+<br>
+
++ 4. Scrum - Planejando Projetos com Agile
+  + Acesse a pasta Docs Estudos > 4. Scrum - Planejando Projetos com Agile
+  + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente, organizada por capítulos
+
+<br>
+
++ 5. Scrum - Executando Projetos com Agile
+  + Acesse a pasta Docs Estudos > 5. Scrum - Executando Projetos com Agile
+  + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente, organizada por capítulos
+
+<br>
+
++ 6. Revisão, Retrospectiva e Encerramento de Projetos com Agile
+  + Acesse a pasta Docs Estudos > 6. Revisão, Retrospectiva e Encerramento de Projetos com Agile
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente, organizada por capítulos
 
 

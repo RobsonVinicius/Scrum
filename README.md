@@ -47,6 +47,12 @@
 
 <br>
 
+### 🎞 Vídeos
+
++ [Scrum - Aprenda Scrum em 9 minutos - Resumo](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+
+<br>
+
 ### 📝 Documentação de Estudo:
 
 + Scrum: Agilidade em seu projeto

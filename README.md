@@ -55,6 +55,8 @@
 
 ### 📝 Documentação de Estudo:
 
+<br>
+
 **+ Scrum: Agilidade em seu projeto**
   + Acesse a pasta Docs Estudos > Scrum: Agilidade em seu projeto
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos

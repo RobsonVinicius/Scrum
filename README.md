@@ -19,8 +19,9 @@
 
 ### 📰 Posts
 
-+ [8 Dicas para realizar retrospectivas](https://www.dbccompany.com.br/8-dicas-para-realizar-retrospectivas/)
-+ [Scrum - Saiba como usar o Scrum da melhor forma](https://www.atlassian.com/br/agile/scrum)
++ [8 Dicas para realizar retrospectivas - DBC](https://www.dbccompany.com.br/8-dicas-para-realizar-retrospectivas/)
++ [Scrum - Saiba como usar o Scrum da melhor forma - Atlassian](https://www.atlassian.com/br/agile/scrum)
++ [Scrum - O guia definitivo da metodologia ágil - Artia](https://artia.com/scrum/)
 
 <br>
 

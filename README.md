@@ -23,6 +23,7 @@
 + [Scrum - Saiba como usar o Scrum da melhor forma - Atlassian](https://www.atlassian.com/br/agile/scrum)
 + [Scrum - O guia definitivo da metodologia ágil - Artia](https://artia.com/scrum/)
 + [Vantagens do Scrum e como aplicá-lo em sua empresa - EJMC](https://jrmack.com.br/vantagens-do-scrum-e-como-aplica-lo-em-sua-empresa/)
++ [Passe das tarefas às conclusões com o método scrum - Post it Notes 3M](https://www.3m.com.pt/3M/pt_PT/post-it-notes/ideas/articles/make-the-leap-from-to-do-to-done-with-the-scrum-methodology/)
 
 <br>
 

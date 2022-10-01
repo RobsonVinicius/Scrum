@@ -38,7 +38,7 @@
 
 ### 📚 Livros
  
-+ Scrum: A arte de fazer duas vezes o trabalho na metade do tempo – Jeff Sutherland
++ [Scrum: A arte de fazer duas vezes o trabalho na metade do tempo – Jeff Sutherland](https://amzn.to/3rsdLul) | [Versão Kindle](https://amzn.to/3rm6Bbd)
 + Desenvolvimento de Software com Scrum: Aplicando Métodos Ágeis com Sucesso - Mike Cohn
 + Scrum Essencial: Um Guia Prático para o Processo Ágil Mais Popular – Kenneth S. Rubin
  

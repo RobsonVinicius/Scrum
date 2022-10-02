@@ -7,6 +7,14 @@
 
 <br>
 
+### 📚 Livros
+ 
++ [Scrum: A arte de fazer duas vezes o trabalho na metade do tempo – Jeff Sutherland](https://amzn.to/3rsdLul) | [Versão Kindle](https://amzn.to/3rm6Bbd)
++ [Desenvolvimento de Software com Scrum: Aplicando Métodos Ágeis com Sucesso - Mike Cohn](https://amzn.to/3SubNFU) | [Versão Kindle](https://amzn.to/3BXtczL)
++ [Scrum Essencial: Um Guia Prático para o Processo Ágil Mais Popular – Kenneth S. Rubin](https://amzn.to/3E7XZMO) | [Versão Kindle](https://amzn.to/3SR4O9Y)
+
+<br>
+
 ### 📜 Certificações
 
 + [Scrum Alliance](https://www.scrumalliance.org/)
@@ -33,14 +41,6 @@
 + [Scrum: do zero ao Sprint - Hipsters #54](https://cursos.alura.com.br/hipsterstech-scrum-do-zero-ao-sprint-hipsters-54-a532)
 + [Scrum e Agile para além de Tecnologia - Hipsters #115](https://cursos.alura.com.br/hipsterstech-scrum-e-agile-para-alem-de-tecnologia-hipsters-115-a467)
 + [Scrum Master Toolbox Podcast](https://player.fm/series/scrum-master-toolbox-podcast)
-
-<br>
-
-### 📚 Livros
- 
-+ [Scrum: A arte de fazer duas vezes o trabalho na metade do tempo – Jeff Sutherland](https://amzn.to/3rsdLul) | [Versão Kindle](https://amzn.to/3rm6Bbd)
-+ [Desenvolvimento de Software com Scrum: Aplicando Métodos Ágeis com Sucesso - Mike Cohn](https://amzn.to/3SubNFU) | [Versão Kindle](https://amzn.to/3BXtczL)
-+ [Scrum Essencial: Um Guia Prático para o Processo Ágil Mais Popular – Kenneth S. Rubin](https://amzn.to/3E7XZMO) | [Versão Kindle](https://amzn.to/3SR4O9Y)
  
 <br> 
 

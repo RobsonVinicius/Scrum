@@ -40,7 +40,7 @@
  
 + [Scrum: A arte de fazer duas vezes o trabalho na metade do tempo – Jeff Sutherland](https://amzn.to/3rsdLul) | [Versão Kindle](https://amzn.to/3rm6Bbd)
 + [Desenvolvimento de Software com Scrum: Aplicando Métodos Ágeis com Sucesso - Mike Cohn](https://amzn.to/3SubNFU) | [Versão Kindle](https://amzn.to/3BXtczL)
-+ Scrum Essencial: Um Guia Prático para o Processo Ágil Mais Popular – Kenneth S. Rubin
++ [Scrum Essencial: Um Guia Prático para o Processo Ágil Mais Popular – Kenneth S. Rubin](https://amzn.to/3E7XZMO) | [Versão Kindle](https://amzn.to/3SR4O9Y)
  
 <br> 
 

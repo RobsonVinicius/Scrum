@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### Scrum O Manifesto Ágil, Liderança e Organização em Scrum
+  ### Scrum: O Manifesto Ágil, Liderança e Organização em Scrum
   
 </div>
 

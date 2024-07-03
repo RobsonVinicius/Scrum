@@ -61,14 +61,12 @@
 <br>
 
 **+ Scrum: Agilidade em seu projeto**
-  + Acesse o link > [Scrum: Agilidade em seu projeto](https://github.com/RobsonVinicius/Scrum/tree/main/Docs%20Estudos/Scrum%20-%20Agilidade%20em%20seu%20projeto)
-  + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos
+  + Acesse o link > [Scrum: Agilidade em seu projeto](https://github.com/RobsonVinicius/Scrum/tree/main/Docs%20Estudos/Scrum%20-%20Agilidade%20em%20seu%20projeto)  
   
 <br>
 
 **1. Scrum - Gerencie o seu projeto de forma ágil**
-  + Acesse a pasta Docs Estudos > 1. Scrum - Gerencie o seu projeto de forma ágil
-  + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente, organizada por capítulos
+  + Acesse o link > [1. Scrum - Gerencie o seu projeto de forma ágil](https://github.com/RobsonVinicius/Scrum/tree/main/Docs%20Estudos/1.%20Scrum%20-%20Gerencie%20o%20seu%20projeto%20%20de%20forma%20%C3%A1gil)
 
 <br>
 

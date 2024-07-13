@@ -71,8 +71,7 @@
 <br>
 
 **2. Scrum O manifesto Ágil, liderança e Organização em Scrum**
-  + Acesse a pasta Docs Estudos > 2. Scrum O manifesto Ágil, liderança e Organização em Scrum
-  + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente, organizada por capítulos
+  + Acesse o link > [2. Scrum O manifesto Ágil, liderança e Organização em Scrum](https://github.com/RobsonVinicius/Scrum/tree/main/Docs%20Estudos/2.%20Scrum%20O%20Manifesto%20%C3%81gil%2C%20Lideran%C3%A7a%20e%20Organiza%C3%A7%C3%A3o%20em%20Scrum)
 
 <br>
 

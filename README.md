@@ -2,12 +2,12 @@
  
  ![Scrum Logo](https://raw.githubusercontent.com/RobsonVinicius/Scrum/main/Docs%20Estudos/Scrum%20-%20Agilidade%20em%20seu%20projeto/imagens/scrum-1.png)
 
-  
 </div>
 
 <br>
 
 ## 📚 Livros
+<br>
 
 | Capa | Livro | Autor | Livro Físico | Versão Kindle | 
 | --- | --- | --- | --- | --- |

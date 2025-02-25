@@ -7,7 +7,7 @@
 
 <br>
 
-### 📚 Livros
+## 📚 Livros
 
 | Capa | Livro | Autor | Livro Físico | Versão Kindle | 
 | --- | --- | --- | --- | --- |
@@ -18,7 +18,7 @@
 
 <br>
 
-### 📜 Certificações
+## 📜 Certificações
 
 + [Scrum Alliance](https://www.scrumalliance.org/)
 + [Scrum.org](https://www.scrum.org/)
@@ -28,7 +28,7 @@
 
 <br> 
 
-### 📰 Posts
+## 📰 Posts
 
 + [8 Dicas para realizar retrospectivas - DBC](https://www.dbccompany.com.br/8-dicas-para-realizar-retrospectivas/)
 + [Scrum - Saiba como usar o Scrum da melhor forma - Atlassian](https://www.atlassian.com/br/agile/scrum)
@@ -39,7 +39,7 @@
 <br>
 
   
-### 🎙️ Podcasts
+## 🎙️ Podcasts
 
 + [Scrum: do zero ao Sprint - Hipsters #54](https://cursos.alura.com.br/hipsterstech-scrum-do-zero-ao-sprint-hipsters-54-a532)
 + [Scrum e Agile para além de Tecnologia - Hipsters #115](https://cursos.alura.com.br/hipsterstech-scrum-e-agile-para-alem-de-tecnologia-hipsters-115-a467)
@@ -47,19 +47,19 @@
  
 <br> 
 
-### 🗺️ Guides
+## 🗺️ Guides
 
 + [Scrum Guides](https://www.scrumguides.org/)
 
 <br>
 
-### 🎞 Vídeos
+## 🎞 Vídeos
 
 + [Scrum - Aprenda Scrum em 9 minutos - Resumo](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 <br>
 
-### 📝 Documentação de Estudo:
+## 📝 Documentação de Estudo:
 
 <br>
 

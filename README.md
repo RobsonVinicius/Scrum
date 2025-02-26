@@ -11,7 +11,7 @@
 
 | Capa | Livro | Autor | Livro Físico | Versão Kindle | 
 | --- | --- | --- | --- | --- |
-| <img src="https://m.media-amazon.com/images/I/71KWWCfRHeL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Scrum: A arte de fazer duas vezes o trabalho na metade do tempo | Jeff Sutherland | [Veja Mais](https://amzn.to/4idrqhl) | [Veja Mais](https://amzn.to/3CVx2hr)|
+| <img src="https://m.media-amazon.com/images/I/71KWWCfRHeL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Scrum: Guia prático: Maior produtividade. Melhores resultados. Aplicação imediata | Jeff Sutherland | [Veja Mais](https://amzn.to/4idrqhl) | [Veja Mais](https://amzn.to/3CVx2hr)|
 | <img src="https://m.media-amazon.com/images/I/71nHi9Q2t6L._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Desenvolvimento de Software com Scrum: Aplicando Métodos Ágeis com Sucesso | Mike Cohn | [Veja Mais](https://amzn.to/4igNbNv) | [Veja Mais](https://amzn.to/3F5dpE3)|
 | <img src="https://m.media-amazon.com/images/I/71YJYp68oKL._SL1413_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Scrum Essencial: Um Guia Prático para o Processo Ágil Mais Popular | Kenneth S. Rubin | [Veja Mais](https://amzn.to/3EUS4NO) |  |
 
